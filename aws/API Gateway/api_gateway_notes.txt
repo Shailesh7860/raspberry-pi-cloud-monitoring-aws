@@ -1,0 +1,3 @@
+/metrics 
+    GET (attached to raspi-query)
+    POST (attached to raspi-ingest)

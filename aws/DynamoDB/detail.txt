@@ -1,0 +1,3 @@
+Name: raspi_metrics 
+Partition key: device_id (S)
+Sort key: timestamp (N)
