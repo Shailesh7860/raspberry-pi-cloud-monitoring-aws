@@ -1,6 +1,6 @@
 # Raspberry Pi Cloud Monitoring on AWS
 
-## Project Overview
+## Overview
 
 This project demonstrates a cloud-enabled monitoring solution for a Raspberry Pi. It collects system metrics from the Raspberry Pi and sends them to AWS using an API-driven architecture. The data is stored in DynamoDB and can be queried through AWS Lambda.
 
